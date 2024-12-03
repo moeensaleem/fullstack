@@ -1,0 +1,54 @@
+:root{
+    --font-size: 1.5rem;
+    --margin:1.5rem;
+    --box-shadow: 2px 2px 2px 2px rgb(0, 0, 0, 0.2); 
+    --background-color:rgb(255, 255, 255);  
+    --color:white;
+}
+  
+/* #name{
+    font-size: var(--font-size);
+    margin: var(--margin);
+    box-shadow: var(--box-shadow);
+    border: none;
+    outline: none;
+}
+#pass{
+    font-size: var(--font-size);
+    margin: var(--margin);
+    box-shadow: var(--box-shadow);
+    border: none;
+    outline: none;
+}
+.success{
+    font-size: var(--font-size);
+    margin: var(--margin);
+    border: none;
+    outline: none;
+    color: var(--color);
+    background-color: var(--background-color);
+}
+.error{
+    font-size: var(--font-size);
+    margin: var(--margin);
+    box-shadow: var(--box-shadow);
+    border: none;
+    outline: none;
+    background-color: red;
+    color: var(--color);
+}
+#submit{
+    font-size: var(--font-size);
+    margin: var(--margin);
+    box-shadow: var(--box-shadow);
+    border: none;
+    outline: none;
+    cursor: pointer;
+}
+#reset{
+    font-size: var(--font-size);
+    margin: var(--margin);
+    box-shadow: var(--box-shadow);
+    border: none;
+    outline: none;
+} */

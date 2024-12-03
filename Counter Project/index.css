@@ -1,0 +1,47 @@
+#btn{
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+
+#pluse{
+    width: 3em;
+    height: 2em;
+    color: ghostwhite;
+    font-size: 2em;
+    background-color: green;
+    border: none;
+    outline: none;
+    border-radius: 3px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#number{
+    width: 3em;
+    height: 2em;
+    color: rgb(14, 14, 17);
+    font-size: 2em;
+    background-color: gainsboro;
+    border: none;
+    outline: none;
+    border-radius: 3px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#minus{
+    width: 3em;
+    height: 2em;
+    color: ghostwhite;
+    font-size: 2em;
+    background-color: red;
+    border: none;
+    outline: none;
+    border-radius: 3px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
